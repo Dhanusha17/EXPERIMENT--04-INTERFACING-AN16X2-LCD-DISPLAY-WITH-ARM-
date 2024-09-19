@@ -191,7 +191,8 @@ MX_GPIO_Init();
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Screenshot 2024-09-19 221938](https://github.com/user-attachments/assets/236d11fa-6a61-4479-8831-f89ca65c3e4e)
+![Screenshot 2024-09-19 222727](https://github.com/user-attachments/assets/a4cc2f76-06ef-46b3-b86f-31cfe6d2a39f)
+
 
  
 ## Result :
